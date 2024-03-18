@@ -2,7 +2,5 @@
 
 # demo视频
 
-<video id="video" controls="" preload="none" poster="demo">
-      <source id="mp4" src="doc/video.mp4" type="video/mp4">
-</videos>
+![效果](doc/doc.gif)
 
